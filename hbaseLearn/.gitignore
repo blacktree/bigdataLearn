@@ -13,3 +13,4 @@ pids/*
 .idea
 target/*
 *.classpath
+/target/
